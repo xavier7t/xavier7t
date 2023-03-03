@@ -7,10 +7,8 @@ Welcome to Xavier’s Github page.
 * 📍Toronto, ON, CAN 🇨🇦
 * 🔗Let’s connect! [Github](https://github.com/xavier7t) | [LinkedIn](https://www.linkedin.com/in/xavier7/) | [Email](mailto:yuxuanli.work@icloud.com)
 
-# iOSDevX
 
-## Welcome to iOSDevX!
-This repo hosts the source code and resources for the Swift tech blog: [iOSDevX](https://xavier7t.com) by me, Xavier.
+### More about [iOS DevX](https://xavier7t.com)
 
 ## 🔥Top 3 Hits🔥
 [Charts in SwiftUI](https://xavier7t.com/charts-in-swiftui)
