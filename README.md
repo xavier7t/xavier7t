@@ -18,6 +18,8 @@ Welcome to Xavier’s Github page.
 [CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
 
 ## 👨‍🍳Chef’s recommendation👨‍🍳
+[@State in SwiftUI](https://xavier7t.com/state-in-swiftui)
+
 [CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
 
 [Dynamic Island In-App Notification in SwiftUI](https://xavier7t.com/dynamic-island-in-app-notification-in-swiftui)
