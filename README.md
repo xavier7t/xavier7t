@@ -26,5 +26,7 @@ Welcome to Xavier’s Github page.
 
 [Swift Initializers Explained](https://xavier7t.com/swift-initializers-explained)
 
+[Sheet and 3D Rotation in SwiftUI](https://xavier7t.com/swiftui-sheet-and-3d-rotation)
+
 ## 📖All posts📖
 For all posts, please visit [iOS DevX](https://xavier7t.com) or its Github [repo](https://github.com/xavier7t/iOSDevX).
