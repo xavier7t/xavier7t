@@ -10,12 +10,17 @@ Welcome to Xavier’s Github page.
 
 ### More about [iOS DevX](https://xavier7t.com)
 
-## 🔥Top 3 Hits🔥
+## 🔥Top 5 Hits🔥
+
 [Charts in SwiftUI](https://xavier7t.com/charts-in-swiftui)
+
+[Grid View in SwiftUI](https://xavier7t.com/grid-view-in-swiftui)
 
 [Searchable List in SwiftUI](https://xavier7t.com/searchable-list-in-swiftui)
 
 [CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
+
+[Interactive Charts in SwiftUI](https://xavier7t.com/interactive-charts-in-swiftui)
 
 ## 👨‍🍳Chef’s recommendation👨‍🍳
 [@State in SwiftUI](https://xavier7t.com/state-in-swiftui)
