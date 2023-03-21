@@ -11,27 +11,28 @@ Welcome to Xavier’s Github page.
 ### More about [iOS DevX](https://xavier7t.com)
 
 ## 🔥Top 5 Hits🔥
-
-[Charts in SwiftUI](https://xavier7t.com/charts-in-swiftui)
-
 [Grid View in SwiftUI](https://xavier7t.com/grid-view-in-swiftui)
 
 [Searchable List in SwiftUI](https://xavier7t.com/searchable-list-in-swiftui)
 
-[CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
+[Geometry Reader in SwiftUI](https://xavier7t.com/geometry-reader-in-swiftui)
 
-[Interactive Charts in SwiftUI](https://xavier7t.com/interactive-charts-in-swiftui)
+[Charts in SwiftUI](https://xavier7t.com/charts-in-swiftui)
+
+[Work with JSON files in the iOS document directory](https://xavier7t.com/work-with-json-files-in-the-ios-document-directory)
 
 ## 👨‍🍳Chef’s recommendation👨‍🍳
-[@State in SwiftUI](https://xavier7t.com/state-in-swiftui)
-
 [CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
 
 [Dynamic Island In-App Notification in SwiftUI](https://xavier7t.com/dynamic-island-in-app-notification-in-swiftui)
 
+[@State in SwiftUI](https://xavier7t.com/state-in-swiftui)
+
 [Swift Initializers Explained](https://xavier7t.com/swift-initializers-explained)
 
 [Sheet and 3D Rotation in SwiftUI](https://xavier7t.com/swiftui-sheet-and-3d-rotation)
+
+[List with Sort Options](https://xavier7t.com/swiftui-list-with-sort-options)
 
 ## 📖All posts📖
 For all posts, please visit [iOS DevX](https://xavier7t.com) or its Github [repo](https://github.com/xavier7t/iOSDevX).
