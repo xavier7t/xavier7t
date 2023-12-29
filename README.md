@@ -12,15 +12,15 @@ Welcome to Xavier’s Github page.
 ### More about [iOS DevX](https://xavier7t.com)
 
 ## 🔥Top 5 Hits🔥
-[Progress View in SwiftUI](https://xavier7t.com/progress-view-in-swiftui)
-
-[Work with JSON files in the iOS document directory](https://xavier7t.com/work-with-json-files-in-the-ios-document-directory)
+[withAnimation in SwiftUI](https://xavier7t.com/withanimation-in-swiftui)
 
 [REST API Call in SwiftUI](https://xavier7t.com/rest-api-call-in-swiftui)
 
-[Ternary Operator in SwiftUI](https://xavier7t.com/ternary-operator-in-swiftui)
+[Image Caching in SwiftUI](https://xavier7t.com/image-caching-in-swiftui)
 
-[Grid View in SwiftUI](https://xavier7t.com/grid-view-in-swiftui)
+[SwiftUI List with Sort Options](https://xavier7t.com/swiftui-list-with-sort-options)
+
+[Magnification Gesture in SwiftUI](https://xavier7t.com/magnification-gesture-in-swiftui)
 
 ## 👨‍🍳Chef’s recommendation👨‍🍳
 [CRUD with Core Data in SwiftUI](https://xavier7t.com/crud-with-core-data-in-swiftui)
