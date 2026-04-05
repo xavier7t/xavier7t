@@ -3,6 +3,7 @@
 Welcome to Xavier’s Github page.
 
 * ✍️Author of [iOS DevX](https://xavier7t.com/). There you can find posts of Swift-related demos and tips!
+* 💻Developer of [BenitoAI](https://github.com/xavier7t/BenitoAI), a native macOS chat app for Ollama.
 * 📱Developer of [MoneyX Expense Tracker App](https://apps.apple.com/us/app/moneyx-expensetracker/id6443677973) (💪Advanced version in progress.)
 * 📍Toronto, ON, CAN 🇨🇦
 * 🍎Apple-certified Developer - [App Development with Swift Certification](https://www.credly.com/badges/f6da0c95-44f4-415b-80e8-8c5a0c8c57a3/)
